@@ -57,6 +57,7 @@ All worksheets were combined into a single interactive dashboard titled **“Glo
 - Clear layout and consistent colour themes  
 - Interactive elements enabling users to drill into specific regions or countries  
 - A focus on **data storytelling**, highlighting global health inequalities and demographic patterns  
+<img width="381" height="241" alt="image" src="https://github.com/user-attachments/assets/d8443782-9d83-41ed-b7ff-f2f424687b49" />
 
 ---
 
